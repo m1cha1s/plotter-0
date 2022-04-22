@@ -1,5 +1,5 @@
-# plotter-0
-
+# Plotter-0
+## Assumptions
 - work area - 0.5m x 0.5m
 - tool - marker
 - controller - GRBL
